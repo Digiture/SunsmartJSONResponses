@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "message": "User authenticated successfully",
+    "user": {
+        "userid": 4,
+        "firstname": "renu",
+        "middlename": null,
+        "lastname": "jain",
+        "password": null,
+        "emailid": "renu.jain@digiture.com",
+        "mobilenumber": "1234567890",
+        "roleid": 1,
+        "companyid": 1,
+        "company": null,
+        "role": {
+            "roleid": 1,
+            "rolename": "SalesMan",
+            "allowedscreenids": "1,2,3",
+            "tUsers": null
+        }
+    }
+}
